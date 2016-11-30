@@ -4,7 +4,5 @@ language:
   - python
 python:
   - "3.3"
-install:
-  - pip install pytest
 scpipt:
   - py.test test.py
